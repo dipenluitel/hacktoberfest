@@ -1,0 +1,66 @@
+01. Binary search Algorithm :-
+Binary search is implemented when you have a sorted data structure(e.g:- array or list) and you want to efficiently
+search for a specific element within that data structure.
+
+Some common implementations:-
+1.Searching in Sorted Arrays/list
+2.Searching in Trees
+3.Finding Boundaries
+4.String Matching
+
+PROBLEM STATEMENT 1:-
+ You have been given a sorted array of integers and target,
+ you have to find the index of the target element.
+
+Test Cases:-
+
+1.Input Array: [1, 2, 3, 4, 5, 6, 7, 8, 9]
+  Target Element: 5
+  Expected Output: Index 4 (since 5 is at index 4 in the array)
+
+2.Input Array: [1, 2, 3, 4, 6, 7, 8, 9]
+  Target Element: 5
+  Expected Output: -1 (since 5 is not in the array)
+
+3.Input Array: [1]
+  Target Element: 1
+  Expected Output: Index 0
+
+PROBLEM STATEMENT 2:-
+You are given a sorted array of integers arr, and a target integer target.
+Your task is to find and return the index of the smallest element in the array
+that is greater than or equal to the target value (the "ceiling" of the target)
+using a modified binary search algorithm.
+
+Test Cases:-
+
+1.Input: arr = [2, 3, 15, 9, 15, 16, 18], target = 15
+  Output: 2
+  Explanation: The smallest element in the array that is greater than or equal to 15 is 15 itself, which is at index 2.
+
+2.Input: arr = [2, 3, 15, 9, 15, 16, 18], target = 12
+  Output: 2
+  Explanation: The smallest element in the array that is greater than or equal to 12 is 15, which is at index 2.
+
+3.Input: arr = [2, 3, 15, 9, 15, 16, 18], target = 20
+  Output: 7
+  Explanation: There is no element in the array greater than or equal to 20. The function returns the length of the array (out of bounds index), which is 7.
+
+
+PROBLEM STATEMENT 3:-
+You are given a sorted array of integers arr, and a target integer target.
+Your task is to find and return the index of the largest element in the array that is less than
+or equal to the target value (the "floor" of the target) using a modified binary search algorithm.
+
+Test Cases:-
+1.Input: arr = [2, 3, 5, 9, 12, 14, 16, 18], target = 13
+  Output: 3
+  Explanation: The largest element in the array that is less than or equal to 13 is 12, which is at index 3.
+
+2.Input: arr = [2, 3, 5, 9, 12, 14, 16, 18], target = 5
+  Output: 2
+  Explanation: The largest element in the array that is less than or equal to 5 is 5 itself, which is at index 2.
+
+3.Input: arr = [2, 3, 5, 9, 12, 14, 16, 18], target = 1
+  Output: -1
+  Explanation: There is no element in the array less than or equal to 1. The function returns -1.

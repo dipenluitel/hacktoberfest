@@ -1,0 +1,9 @@
+01. Binary search Algorithm :-
+Binary search is implemented when you have a sorted data structure(e.g:- array or list) and you want to efficiently
+search for a specific element within that data structure.
+
+Some common implementations:-
+1.Searching in Sorted Arrays/list
+2.Searching in Trees
+3.Finding Boundaries
+4.String Matching

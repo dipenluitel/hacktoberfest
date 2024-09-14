@@ -1,0 +1,1 @@
+01. Given an array arr (1-based indexing) of length N and an integer X, the task is to find and print all index ranges having a set bit sum equal to X in the array.
