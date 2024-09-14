@@ -1,0 +1,1 @@
+01. Check if the array is Sorted or not.

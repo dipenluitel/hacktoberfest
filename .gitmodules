@@ -1,3 +1,9 @@
 [submodule "hacktoberfest-2023/hacktoberfest-2023/Btecky"]
 	path = hacktoberfest-2023/hacktoberfest-2023/Btecky
 	url = git@github.com:dipenluitel/Btecky.git
+[submodule "hacktoberfest-2023/hacktoberfest-2023/Hacktoberfest2023-DSA"]
+	path = hacktoberfest-2023/hacktoberfest-2023/Hacktoberfest2023-DSA
+	url = git@github.com:dipenluitel/Hacktoberfest2023-DSA.git
+[submodule "hacktoberfest-2023/hacktoberfest-2023/Hello-World-hacktoberfest2023"]
+	path = hacktoberfest-2023/hacktoberfest-2023/Hello-World-hacktoberfest2023
+	url = git@github.com:dipenluitel/Hello-World-hacktoberfest2023.git
