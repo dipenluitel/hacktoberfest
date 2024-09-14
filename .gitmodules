@@ -1,0 +1,3 @@
+[submodule "hacktoberfest-2023/hacktoberfest-2023/Btecky"]
+	path = hacktoberfest-2023/hacktoberfest-2023/Btecky
+	url = git@github.com:dipenluitel/Btecky.git
