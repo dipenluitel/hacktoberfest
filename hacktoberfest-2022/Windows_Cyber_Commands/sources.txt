@@ -1,0 +1,2 @@
+1. https://thecybersecurityman.com/2018/03/24/10-network-diagnostic-command-line-utilities-every-network-tech-should-know/
+2 . https://allabouttesting.org/top-10-commands-prompt-commands-used-by-security-experts/
